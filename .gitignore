@@ -1,3 +1,6 @@
 .env
 *.7z
 *.pdf
+*.zip
+converted_pdf/*
+downloaded_pdf/*
